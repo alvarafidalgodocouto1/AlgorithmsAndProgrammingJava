@@ -1,4 +1,4 @@
-# 📘 Algorithms and Programming / Algorithmen und Programmierung
+# Algorithms and Programming / Algorithmen und Programmierung
 
 **🇬🇧 English:** This repository was created to document my journey of learning the **Java programming language**, from the most basic concepts to more advanced topics.
 
@@ -30,23 +30,17 @@
 
 * ✅ Java fundamentals
 * ✅ Variables and data types
-* ✅ Decision structures (if / else)
-* ✅ Loops (for, while)
-* ✅ Methods / Functions
-* ✅ Arrays
-* ✅ Object-Oriented Programming (OOP)
-* ✅ Solved exercises
+* ✅ Operators
+* ✅ Simple written exercises
+* ✅ Output exercises
 
 **🇩🇪 Deutsch:**
 
 * ✅ Java-Grundlagen
 * ✅ Variablen und Datentypen
-* ✅ Entscheidungsstrukturen (if / else)
-* ✅ Schleifen (for, while)
-* ✅ Methoden / Funktionen
-* ✅ Arrays
-* ✅ Objektorientierte Programmierung (OOP)
-* ✅ Gelöste Übungen
+* ✅ Operatoren
+* ✅ Einfache schriftliche Übungen
+* ✅ Ausgabeübungen
 
 ---
 
@@ -71,37 +65,33 @@
 **🇬🇧 English:**
 
 ```
-algorithms-and-programming/
+AlgorithmsAndProgrammingJava/
 │
-├── basics/
-│   ├── variables
-│   ├── conditions
-│   └── loops
+├── src/
+│   └── Basic/
+│       ├── Operators.java
+│       ├── SimpleWrittenExercise.java
+│       └── Variables.java
 │
-├── algorithms/
-│   ├── beginner
-│   └── intermediate
-│
-└── projects/
-    └── mini-projects
+├── OutputExercises/
+├── Variables/
+└── README.md
 ```
 
 **🇩🇪 Deutsch:**
 
 ```
-algorithms-and-programming/
+AlgorithmsAndProgrammingJava/
 │
-├── basics/
-│   ├── variables
-│   ├── conditions
-│   └── loops
+├── src/
+│   └── Basic/
+│       ├── Operators.java
+│       ├── SimpleWrittenExercise.java
+│       └── Variables.java
 │
-├── algorithms/
-│   ├── beginner
-│   └── intermediate
-│
-└── projects/
-    └── mini-projects
+├── OutputExercises/
+├── Variables/
+└── README.md
 ```
 
 ---
@@ -112,17 +102,17 @@ algorithms-and-programming/
 
 * [x] Environment setup
 * [ ] Java fundamentals
-* [ ] Basic algorithms
-* [ ] Intermediate exercises
-* [ ] Mini projects
+* [ ] Basic exercises
+* [ ] Variables and operators exercises
+* [ ] Output exercises
 
 **🇩🇪 Deutsch:**
 
 * [x] Einrichtung der Entwicklungsumgebung
 * [ ] Java-Grundlagen
-* [ ] Basisalgorithmen
-* [ ] Mittlere Übungen
-* [ ] Mini-Projekte
+* [ ] Basisübungen
+* [ ] Variablen- und Operatorübungen
+* [ ] Ausgabeübungen
 
 ---
 
@@ -138,4 +128,22 @@ This repository represents my commitment to continuous growth and improvement in
 
 > „Jeder Experte war einmal ein Anfänger."
 
-Die
+Dieses Repository zeigt mein Engagement für kontinuierliches Wachstum und die Verbesserung meiner Programmierfähigkeiten.
+
+---
+
+## ✍️ Author / Autorin
+
+**🇬🇧 English:** **Álvara Couto**
+Student and Java programming learner
+
+**🇩🇪 Deutsch:** **Álvara Couto**
+Studentin und Java-Lernende
+
+📅 Start / Beginn: 2025
+
+---
+
+**🇬🇧 English:** Feel free to follow this journey or leave suggestions ⭐
+
+**🇩🇪 Deutsch:** Folge gerne dieser Reise oder hinterlasse Vorschläge ⭐
